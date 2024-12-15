@@ -14,6 +14,8 @@ Quel est le trafic du site internet?
 
 Cette méthode de calcul peut aussi être conditionnée par l’accès et le partage de certaines données utilisateurs,  dont l’absence empêcherait de rendre compte de la réalité des utilisateurs.
 
+![2.3](https://tinmarrr.github.io/photos/2.3.png)
+
 ### Frontend only
 
 Le frontend ou développement web frontal, désigne l’ensemble des productions d’une page internet ou d’une application, chargé d’interagir avec l’internaute (JavaScript, HTML…). S’y oppose, le backend, qui lui désigne, l’ensemble des données et de l’infrastructure qui font fonctionner le site ou l’application. Les différents acteurs de Razorfish, interviewés dans le cadre de l’enquête, expriment eux-mêmes l’importance des serveurs dans la dépense énergétique du web, comparant le phénomène à un iceberg. Pour autant, cette limite reflète un enjeu plus important qu’est l’accès aux données des serveurs et des data centers, qui restent souvent non communiquées.
@@ -31,6 +33,8 @@ Pour Razorfish, l’outil Razoscan intervient à deux étapes de leur relation c
 Mauvais élèves?
 Razorfish a exprimé clairement son point de vue sur une “tendance” polémique anglo-saxonne: “Pas de Name and shame chez nous”. Cette pratique existante outre-manche vise à afficher publiquement les mauvais comportements des entreprises, qu’ils soient illégaux ou contraire à l’éthique. Hors, en matière d’éco-conception, la note moyenne des entreprises du CAC 40 a reculé cette année, atteignant la note de F soit 20/100.
 L’impossibilité de communiquer les résultats des entreprises peut s’expliquer par ce parti pris, le refus du Name & Shame, comme il peut s’envisager sous le spectre du conflit d’intérêt: dénoncer les comportements de ses propres clients ne peut que conduire à la rupture d’un contrat. 
+
+![2.4](https://tinmarrr.github.io/photos/2.4.png)
 
 ### Effet pervers
 
