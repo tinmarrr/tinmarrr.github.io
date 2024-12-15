@@ -9,6 +9,8 @@ L’outil créé par Razorfish s’appuie sur l’algorithme EcoIndex (outil ope
 
 Cet outil attribue à chaque page web un score entre A à G, G étant le score le plus mauvais. Il a été élaboré afin de refléter certains paramètres techniques représentatifs de chaque partie des trois tiers d’une architecture web distribuée. 
 
+![1.1](https://tinmarrr.github.io/photos/1.1.png)
+
 <img src="photos/1.1.png"/>
 
 <meta property="og:image" content="https://tinmarrr.github.io/photos/1.1.png">
