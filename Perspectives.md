@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Perspectives
-subtitle:   
+subtitle:   Vers un internet plus éco-responsable ?
 ---
 ![4.0](https://tinmarrr.github.io/photos/4.0.png)
 
