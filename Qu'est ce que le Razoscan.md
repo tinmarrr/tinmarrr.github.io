@@ -3,6 +3,9 @@ layout: page
 title:  Qu'est ce que le Razoscan ?
 subtitle:  Éléments de contexte
 ---
+
+![0.2](https://tinmarrr.github.io/photos/0.2.png)
+
 ## L'origine du Razoscan
 
 Le Razoscan est un outil propriétaire développé par l'agence Razorfish en partenariat avec l'association Green IT. Son histoire commence il y a plus de trois ans, lorsque Razorfish a pris conscience de l'impact environnemental croissant du numérique et a cherché à agir de manière responsable face aux demandes de ses clients.
@@ -13,7 +16,7 @@ L'outil est conçu pour aider les entreprises à intégrer des pratiques d'éco-
 
 L'une des particularités de Razoscan est qu'il ne mesure pas l'impact des calculs côté serveur (back-end), se concentrant uniquement sur le contenu et l'expérience utilisateur visible. Cela permet aux développeurs et designers d'identifier des leviers d'optimisation dans la conception des pages, mais cela implique aussi certaines limites, notamment en ce qui concerne l'impact environnemental global du site, qui inclurait le fonctionnement des serveurs.
 
-![0.2](https://tinmarrr.github.io/photos/0.2.png)
+![0.3](https://tinmarrr.github.io/photos/0.3.png)
 
 ## Mesurer pour sensibiliser
 
