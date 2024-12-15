@@ -13,6 +13,8 @@ L'outil est conçu pour aider les entreprises à intégrer des pratiques d'éco-
 
 L'une des particularités de Razoscan est qu'il ne mesure pas l'impact des calculs côté serveur (back-end), se concentrant uniquement sur le contenu et l'expérience utilisateur visible. Cela permet aux développeurs et designers d'identifier des leviers d'optimisation dans la conception des pages, mais cela implique aussi certaines limites, notamment en ce qui concerne l'impact environnemental global du site, qui inclurait le fonctionnement des serveurs.
 
+![0.2](https://tinmarrr.github.io/photos/0.2.png)
+
 ## Mesurer pour sensibiliser
 
 Razoscan s'inscrit dans un contexte plus large où la question de l'éco-conception et de la durabilité numérique devient de plus en plus centrale. L'outil participe ainsi à un mouvement de sensibilisation des entreprises aux enjeux environnementaux du numérique, sans pour autant être une solution complète pour évaluer tous les aspects de l'empreinte écologique d'un site, comme par exemple les coûts énergétiques liés aux serveurs ou aux systèmes de stockage de données.
