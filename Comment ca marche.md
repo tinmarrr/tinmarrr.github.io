@@ -12,9 +12,11 @@ Cet outil attribue à chaque page web un score entre A à G, G étant le score l
 ![1.1](https://tinmarrr.github.io/photos/1.1.png)
 
 Ainsi, dans l'Ecoindex, il a été choisi de représenter :
-un terminal : par le nombre d’éléments du DOM (Document Object Model qui signifie « modèle d'objets de document » , C'est un ensemble d'objets ordonnés décrivant la structure de la page Web à afficher. Il s’agit de la succession d'éléments appelés balises HTML ou XML. Le navigateur internet parcourt donc tous les éléments du DOM un par un pour savoir quoi et comment afficher. GreenIT justifie le choix du DOM car il s’agit d’un élément nécessitant beaucoup de puissance sur le terminal (RAM, CPU) pour afficher la page web. Plus le DOM est petit et moins on risque de déclencher l’obsolescence d’un terminal vieillissant.
-le réseau : par le poids de la page téléchargée des serveurs vers le terminal (exprimé en Ko transférés en download) ; GreenIT justifie le choix du poids de la page car cette donnée témoigne de la contribution (ou non) de la page à l’engorgement du réseau.
-les serveurs : par le nombre de requêtes HTTP entre le terminal et les serveurs. Le nombre de requêtes HTTP était, pour les auteurs de l’Ecoindex, le seul élément technique objectif qui témoigne, avec plus ou moins d'exactitude, de la quantité de serveurs physiques nécessaire pour servir le site.
+<b> un terminal : </b> par le nombre d’éléments du DOM (Document Object Model qui signifie « modèle d'objets de document » , C'est un ensemble d'objets ordonnés décrivant la structure de la page Web à afficher. Il s’agit de la succession d'éléments appelés balises HTML ou XML. Le navigateur internet parcourt donc tous les éléments du DOM un par un pour savoir quoi et comment afficher. GreenIT justifie le choix du DOM car il s’agit d’un élément nécessitant beaucoup de puissance sur le terminal (RAM, CPU) pour afficher la page web. Plus le DOM est petit et moins on risque de déclencher l’obsolescence d’un terminal vieillissant.
+
+<b> le réseau : </b> par le poids de la page téléchargée des serveurs vers le terminal (exprimé en Ko transférés en download) ; GreenIT justifie le choix du poids de la page car cette donnée témoigne de la contribution (ou non) de la page à l’engorgement du réseau.
+
+<b> les serveurs : </b> par le nombre de requêtes HTTP entre le terminal et les serveurs. Le nombre de requêtes HTTP était, pour les auteurs de l’Ecoindex, le seul élément technique objectif qui témoigne, avec plus ou moins d'exactitude, de la quantité de serveurs physiques nécessaire pour servir le site.
  
 Ces données chiffrées sont ensuite utilisées dans la formule de calcul ci-dessous :
 
