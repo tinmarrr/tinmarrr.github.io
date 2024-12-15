@@ -1,5 +1,5 @@
 ---
 layout: page
-title:  Perspectives ?
+title:  Perspectives
 subtitle:   
 ---
