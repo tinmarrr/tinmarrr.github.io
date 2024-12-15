@@ -1,5 +1,5 @@
 ---
 layout: page
-title:  Quelles perspectives ?
+title:  Perspectives ?
 subtitle:   
 ---
