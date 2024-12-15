@@ -11,10 +11,6 @@ Cet outil attribue à chaque page web un score entre A à G, G étant le score l
 
 ![1.1](https://tinmarrr.github.io/photos/1.1.png)
 
-<img src="photos/1.1.png"/>
-
-<meta property="og:image" content="https://tinmarrr.github.io/photos/1.1.png">
-
 Ainsi, dans l'Ecoindex, il a été choisi de représenter :
 un terminal : par le nombre d’éléments du DOM (Document Object Model qui signifie « modèle d'objets de document » , C'est un ensemble d'objets ordonnés décrivant la structure de la page Web à afficher. Il s’agit de la succession d'éléments appelés balises HTML ou XML. Le navigateur internet parcourt donc tous les éléments du DOM un par un pour savoir quoi et comment afficher. GreenIT justifie le choix du DOM car il s’agit d’un élément nécessitant beaucoup de puissance sur le terminal (RAM, CPU) pour afficher la page web. Plus le DOM est petit et moins on risque de déclencher l’obsolescence d’un terminal vieillissant.
 le réseau : par le poids de la page téléchargée des serveurs vers le terminal (exprimé en Ko transférés en download) ; GreenIT justifie le choix du poids de la page car cette donnée témoigne de la contribution (ou non) de la page à l’engorgement du réseau.
@@ -22,16 +18,12 @@ les serveurs : par le nombre de requêtes HTTP entre le terminal et les serveurs
  
 Ces données chiffrées sont ensuite utilisées dans la formule de calcul ci-dessous :
 
-<img src="photos/1.2.png"/>
-
-<meta property="og:image" content="https://tinmarrr.github.io/photos/1.2.png">
+![1.2](https://tinmarrr.github.io/photos/1.2.png)
  
 Afin de prendre en compte la disparité dans les mesures des trois indicateurs, GreenIT a fait le choix de positionner la valeur constatée pour chaque critère dans un quantile, en tenant compte de sa proximité avec les bornes inférieures/supérieures du quantile. Les bornes de l’échelle de l’EcoIndex (0 à 100) ont été mises au point et validées en analysant la base HTTParchive (500 000 URLs).
 En sortie du calcul, nous obtenons le score Ecoindex de la page mesurée. Celui-ci est représenté sous la forme d’un score sur 100 (plus il est élevé, plus le site est éco-conçu). Ce score est également communiqué sous la forme d’une note de A à G pour faciliter la compréhension, sous la forme suivant : 
 
-<img src="photos/1.3.png"/>
-
-<meta property="og:image" content="https://tinmarrr.github.io/photos/1.3.png">
+![1.3](https://tinmarrr.github.io/photos/1.3.png)
 
 ### Vers la mesure de l’impact d’un site internet
 
@@ -45,9 +37,7 @@ Ces calculs reposent sur l'estimation moyenne de l'impact environnemental pour u
 2 g équivalents CO² par rapport au réchauffement global;
 et 3 cl d’eau bleue par rapport à  la tension sur l’eau.
  
-<img src="photos/1.4.png"/>
-
-<meta property="og:image" content="https://tinmarrr.github.io/photos/1.4.png">
+![1.4](https://tinmarrr.github.io/photos/1.4.png)
 
 La première formule calcule la consommation d'eau en centilitres. Elle commence par un facteur de base de 3, qui représente l'impact minimal en eau. La partie variable ajuste cette consommation en fonction de la performance environnementale. La multiplication par 100 puis la division finale par 100 permettent d'obtenir un résultat précis et normalisé.
  
