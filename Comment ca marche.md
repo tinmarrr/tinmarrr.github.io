@@ -5,7 +5,7 @@ subtitle:  Zoom sur les éléments techniques
 ---
 L’outil créé par Razorfish s’appuie sur l’algorithme EcoIndex (outil open-source, développé par le collectif de développeurs GreenIT) pour mesurer l’empreinte environnementale des pages et sites web. 
 
-### La mesure d'une page web
+## La mesure d'une page web
 
 Cet outil attribue à chaque page web un score entre A à G, G étant le score le plus mauvais. Il a été élaboré afin de refléter certains paramètres techniques représentatifs de chaque partie des trois tiers d’une architecture web distribuée. 
 
@@ -25,12 +25,12 @@ En sortie du calcul, nous obtenons le score Ecoindex de la page mesurée. Celui-
 
 ![1.3](https://tinmarrr.github.io/photos/1.3.png)
 
-### Vers la mesure de l’impact d’un site internet
+## Vers la mesure de l’impact d’un site internet
 
 Afin de mesurer la performance environnementale d’un site web, razorfish a fait le choix de développer en collaboration avec GreenIT un outil interne basé sur la technologie de l’Ecoindex.
 Les équipes de razorfish vont alors sélectionner les 10 pages les plus consultées du site internet et les inscrire dans un fichier CSV, importé par la suite sur l’outil propriétaire. A la suite de ces mesures, l’outil va établir une moyenne des 10 pages consultées pour attribuer une note globale au site.
 
-### Estimation de l’impact environnemental
+## Estimation de l’impact environnemental
 
 L’outil développé par GreenIT propose également de visualiser l’impact environnemental d’une page web en estimant la consommation d’eau nécessaire et les émissions de gaz à effet de serre provoqués par l’affichage de la page.
 Ces calculs reposent sur l'estimation moyenne de l'impact environnemental pour une page Web depuis un poste fixe avec une connexion ADSL, c'est-à-dire :
@@ -40,7 +40,6 @@ et 3 cl d’eau bleue par rapport à  la tension sur l’eau.
 ![1.4](https://tinmarrr.github.io/photos/1.4.png)
 
 La première formule calcule la consommation d'eau en centilitres. Elle commence par un facteur de base de 3, qui représente l'impact minimal en eau. La partie variable ajuste cette consommation en fonction de la performance environnementale. La multiplication par 100 puis la division finale par 100 permettent d'obtenir un résultat précis et normalisé.
- 
 
 La seconde formule suit une logique similaire pour les émissions de gaz à effet de serre, mais avec un facteur de base de 2. La partie variable module les émissions proportionnellement au score EcoIndex. Cette approche garantit une relation directe entre la performance environnementale et les émissions de CO2.
 
