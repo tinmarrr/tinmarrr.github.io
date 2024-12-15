@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Les limites
-subtitle:    
+subtitle:  Au-delà des nombres
 ---
 ## Les limites techniques 
 
