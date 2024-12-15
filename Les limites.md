@@ -4,6 +4,7 @@ title:  Les limites
 subtitle:  
 ---
 ## Les limites techniques 
+
 ### La méthode de calcul
 
 Comme nous l’avons vu, la méthode utilisée par Razoscan consiste à calculer la moyenne des 10 pages les plus consultées d’un site internet. Pour autant, l’analyse ne tient pas compte du parcours utilisateur, plusieurs questions peuvent être soulevées afin d’en tenir compte. 
@@ -20,7 +21,10 @@ Le frontend ou développement web frontal, désigne l’ensemble des productions
 
 ![2.1](https://tinmarrr.github.io/photos/2.1.png)
 
+
+
 ## Limites inhérentes à la méthode de quantification
+
 ### Conflit d’intérêt
 
 Pour Razorfish, l’outil Razoscan intervient à deux étapes de leur relation client. Le baromètre peut être utilisé lors d’amélioration du site web ou au contraire intervenir pour mesurer progressivement un site ou une application en construction. Cette expertise est proposée par le prestataire, mais les résultats de ces mesures autant que la décision des clients d’inclure les pratiques d’éco-conception, restent quant à eux confidentiels. 
