@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Comment ca marche ?
+title:  Fonctionnement de l'outil
 subtitle:  Zoom sur les éléments techniques
 ---
 L’outil créé par Razorfish s’appuie sur l’algorithme EcoIndex (outil open-source, développé par le collectif de développeurs GreenIT) pour mesurer l’empreinte environnementale des pages et sites web. 
