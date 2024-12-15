@@ -3,6 +3,8 @@ layout: page
 title:  Perspectives
 subtitle:   
 ---
+![4.0](https://tinmarrr.github.io/photos/4.0.png)
+
 “Ce qui ne se mesure pas, ne s’améliore pas”, c’est sur cette citation de William Edwards Deming, statisticien américain, que se termine la vidéo de présentation de Razoscan envoyée par l’agence Razorfish. Avant de pouvoir mesurer ou quantifier, il faut  “convenir d’une grandeur, concevoir un dispositif technique de chiffrage, et pouvoir le mettre en œuvre.” Les émissions de gaz à effet de serre produites par les sites et applications des entreprises sont une grandeur, mesurées via le “dispositif technique de chiffrage” qu’est Razoscan. C’est ici dans la mise en œuvre de ce dispositif que nous pouvons nous interroger et proposer un retour réflexif sur cette pratique.
 
 ## L'influence limitée des chiffres
